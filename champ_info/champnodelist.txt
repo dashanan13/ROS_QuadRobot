@@ -1,0 +1,16 @@
+/amcl
+/base_to_footprint_ekf
+/champ_controller
+/contact_sensor
+/controller_spawner
+/footprint_to_odom_ekf
+/gazebo
+/gazebo_gui
+/map_server
+/move_base
+/nodelet_manager
+/robot_state_publisher
+/rosout
+/rviz
+/state_estimator
+/velocity_smoother

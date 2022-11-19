@@ -1,0 +1,10 @@
+/base_to_footprint_ekf
+/champ_controller
+/champ_walker_node
+/footprint_to_odom_ekf
+/nodelet_manager
+/robot_state_publisher
+/rosout
+/rviz
+/state_estimator
+/velocity_smoother
