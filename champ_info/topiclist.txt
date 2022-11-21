@@ -1,6 +1,5 @@
 /base_to_footprint_pose
 /body_pose
-/body_pose/raw
 /clicked_point
 /cmd_vel
 /cmd_vel/smooth
@@ -11,7 +10,6 @@
 /initialpose
 /joint_group_position_controller/command
 /joint_states
-/joy
 /move_base_simple/goal
 /nodelet_manager/bond
 /odom
